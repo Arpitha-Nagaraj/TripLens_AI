@@ -1,4 +1,4 @@
-# ✈️ TravelGPT
+# ✈️ TripLens AI
 
 TravelGPT is an AI-powered travel assistant that uses **Large Language Models (Gemini)** together with **Model Context Protocol (MCP)** servers to retrieve and organize live travel information.
 
