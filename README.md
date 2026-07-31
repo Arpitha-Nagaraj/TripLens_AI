@@ -29,7 +29,7 @@ The Gemini model understands the request and extracts:
 
 ### 🌐 Browser Automation using Playwright MCP
 
-TravelGPT uses **Playwright MCP** instead of scraping HTML.
+TripLens uses **Playwright MCP** instead of scraping HTML.
 
 The browser agent automatically:
 
@@ -297,7 +297,7 @@ Find hotels in Seattle this weekend with sunny weather
 
 ## 🚧 Phase 6 — AI Travel Planner
 
-TravelGPT becomes a complete travel assistant.
+TripLensAI becomes a complete travel assistant.
 
 Example:
 
@@ -308,7 +308,7 @@ Need a hotel near Salesforce Tower
 Include restaurants and sightseeing
 ```
 
-TravelGPT will coordinate:
+TripLensAI will coordinate:
 
 - Browser MCP
 - Google Maps MCP
@@ -336,7 +336,7 @@ to generate a complete travel itinerary.
 
 ## 💡 Why MCP?
 
-Instead of relying on paid travel APIs, TravelGPT demonstrates how **Model Context Protocol (MCP)** enables LLMs to interact with real applications through browser automation.
+Instead of relying on paid travel APIs, TripLensAI demonstrates how **Model Context Protocol (MCP)** enables LLMs to interact with real applications through browser automation.
 
 This allows the assistant to retrieve live travel information directly from Google Travel while keeping the architecture flexible and extensible for additional MCP tools.
 
